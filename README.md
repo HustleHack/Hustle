@@ -1,2 +1,2 @@
 # Hustle
-Hustle hack repository 
+Hustle Hack repository 
